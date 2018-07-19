@@ -2,7 +2,7 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Project to document the SOGo calendar server configurations and usecases.
 
 ```markdown
 Syntax highlighted code block
