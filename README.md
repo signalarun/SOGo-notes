@@ -1,8 +1,9 @@
 ## Welcome to SOGo notes
+Project to document the SOGo calendar server configurations and usecases.
 
 ### Markdown
 
-Project to document the SOGo calendar server configurations and usecases.
+
 
 ```markdown
 Syntax highlighted code block
