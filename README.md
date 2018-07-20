@@ -1,5 +1,7 @@
 ## Welcome to SOGo notes
- 
+  [Configuration](https://signalarun.github.io/SOGo-notes/configuration.html)
+  [OpenLdap](https://signalarun.github.io/SOGo-notes/openLdap.html)
+  [Usecase](https://signalarun.github.io/SOGo-notes/usecase.html)
 
 
 ### Markdown
