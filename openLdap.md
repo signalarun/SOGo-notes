@@ -18,8 +18,8 @@ https://serverfault.com/questions/616698/in-ldap-what-exactly-is-a-bind-dn
            
       2.3. Run -- slaptest -f ~/test.conf -F /usr/local/tmp/ldap_config<any location whre the converted schema is to be placed>
   
-      2.4. -- cp /usr/local/tmp/ldap_config/cn\=config/cn\=schema/cn={1}test.ldif /etc/ldap/slapd.d/cn\=config/cn\=schema/
+      2.4. ``` -- cp /usr/local/tmp/ldap_config/cn\=config/cn\=schema/cn={1}test.ldif /etc/ldap/slapd.d/cn\=config/cn\=schema/
       
-      2.5. -- chown openldap:openldap /etc/ldap/slapd.d/cn\=config/cn\=schema/cn={1}test.ldif
+      2.5. `` -- chown openldap:openldap /etc/ldap/slapd.d/cn\=config/cn\=schema/cn={1}test.ldif
       
-      2.6. -- /etc/init.d/slapd restart
+      2.6. `` -- /etc/init.d/slapd restart
