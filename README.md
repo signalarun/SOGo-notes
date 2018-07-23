@@ -5,6 +5,7 @@
   
   [Usecase](https://signalarun.github.io/SOGo-notes/usecase.html)
   
+  [Installation Links](https://signalarun.github.io/SOGo-notes/installation_links.html)
 
 
 ### Markdown
