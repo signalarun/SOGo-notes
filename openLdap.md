@@ -2,6 +2,10 @@ The baseDN of a search is the starting point. Where it will start searching. Pre
 The bindDN DN is basically the credential you are using to authenticate against an LDAP. When using a bindDN it usually comes with a password associated with it.
 https://serverfault.com/questions/616698/in-ldap-what-exactly-is-a-bind-dn
 
+##Links on LDAP
+  1. http://www.zytrax.com/books/ldap/ch6/slapd-config.html#use-schemas
+  2. http://www.zytrax.com/books/ldap/ch14/#ldapadd
+
 ##Import the custom schema to LDAP. (If they have introduced new objectClasses, attributes)
   1. Edit the “slapd.conf” file to include custom schema and then restart the LDAP server for it to get effect.
   
