@@ -15,3 +15,7 @@
       </dependency>
      Gradle: 
       compile 'com.github.caldav4j:caldav4j:0.9.1'
+
+
+
+1.[An article on caldav]( https://ieeexplore.ieee.org/document/1405979/)
